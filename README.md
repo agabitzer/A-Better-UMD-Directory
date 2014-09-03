@@ -1,7 +1,7 @@
 A-Better-UMD-Directory
 ======================
 
-> A super unofficial attempt at making the UMD websites that much easier
+> A super unofficial attempt at making the UMD websites that much easier to navigate
 
 # Official Links
 1. [Everything](http://www.umd.edu/directories/) - The official directory of UMD
@@ -27,7 +27,6 @@ A-Better-UMD-Directory
 15. [Off Campus Living](http://www.umd.och101.com/) - 
 16. [The Enclave](https://www.8700enclave.com/) - 
 17. [Domain](http://www.domaincollegeparkapts.com/) - 
-18. []() - what else am I missing?
 20. [Dining](http://dining.umd.edu) - 
 20. []() - 
 19. []() - 
@@ -57,16 +56,10 @@ A-Better-UMD-Directory
 20. []() - 
 20. []() - 
 19. []() - 
-20. []() - 
 
 ### Fun
 
 20. [Student Entertainment Events](http://see.umd.edu) - Movies, Concerts and more!
 19. []() - 
 20. []() - 
-20. []() - 
-19. []() - 
-20. []() - 
-20. []() - 
-19. []() - 
 20. []() - 

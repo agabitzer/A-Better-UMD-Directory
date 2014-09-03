@@ -63,3 +63,17 @@ A-Better-UMD-Directory
 19. []() - 
 20. []() - 
 20. []() - 
+
+### Research
+
+20. [UG Researc](http://honcol.blogspot.com/2014/08/maryland-student-researchers-program.html?m=1) - more here: http://www.ugresearch.umd.edu/studentresearchers.php
+20. []() - 
+20. []() - 
+20. []() - 
+20. []() - 
+
+
+
+19. [Peer Training](http://honcol.blogspot.com/2014/08/peer-educator-training-certification.html?m=1) - 
+20. [CS Interview Practice](http://honcol.blogspot.com/2014/08/new-student-group-to-help-develop.html?m=1) - 
+20. []() - 

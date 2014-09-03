@@ -28,7 +28,7 @@ A-Better-UMD-Directory
 16. [The Enclave](https://www.8700enclave.com/) - 
 17. [Domain](http://www.domaincollegeparkapts.com/) - 
 18. []() - what else am I missing?
-20. []() - 
+20. [Dining](http://dining.umd.edu) - 
 20. []() - 
 19. []() - 
 
@@ -61,7 +61,7 @@ A-Better-UMD-Directory
 
 ### Fun
 
-20. [Student Entertainment Events](http://see.umd.edu) - 
+20. [Student Entertainment Events](http://see.umd.edu) - Movies, Concerts and more!
 19. []() - 
 20. []() - 
 20. []() - 

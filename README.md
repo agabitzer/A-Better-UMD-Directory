@@ -60,7 +60,7 @@ A-Better-UMD-Directory
 ### Fun
 
 20. [Student Entertainment Events](http://see.umd.edu) - Movies, Concerts and more!
-19. []() - 
+19. [Hidden UMD](http://hiddenumd.weebly.com/passport) - 
 20. []() - 
 20. []() - 
 
@@ -72,8 +72,42 @@ A-Better-UMD-Directory
 20. []() - 
 20. []() - 
 
+### Quest
+
+1. [Directory #employment](http://quest.umd.edu/directory/)
+
 
 
 19. [Peer Training](http://honcol.blogspot.com/2014/08/peer-educator-training-certification.html?m=1) - 
 20. [CS Interview Practice](http://honcol.blogspot.com/2014/08/new-student-group-to-help-develop.html?m=1) - 
 20. []() - 
+
+### University Student Judiciary
+Citation References and Guidelines:
+
+McKeldin Library Style Manuals- www.lib.umd.edu/guides/style_manuals.html 
+Specific instructions for citing a variety of different sources in MLA, APA, and Chicago styles. Similar information is also available from the websites below.
+
+MLA Style - http://www.mla.org/style_faq
+APA Style - http://www.apastyle.org/faqs.html
+Chicago Style - http://www.chicagomanualofstyle.org/tools_citationguide.html 
+
+On Campus Resources:
+
+Office of Student Conduct - www.osc.umd.edu
+The OSC is responsible for educating students about the Code of Student Conduct and the Code of Academic Integrity, as well as for handling reported violations of those codes.  Contact the Office of Student Conduct with questions about the Code, or to report a violation.
+
+International Student & Scholar Services - http://www.international.umd.edu/ies/
+International Student & Scholar Service helps international students make the most of their time at Maryland.
+
+Learning Assistance Service - http://www.counseling.umd.edu/LAS/
+The Learning Assistance Service exists to help students achieve a their academic goals by providing a wide range of free services. 
+
+Office of Multi-Ethnic Student Education - http://www.omse.umd.edu/
+OMSE, as this office is known on campus, offers a wide range of academic resources, services, and support to support undergraduate students.
+
+Tutoring - www.tutoring.umd.edu
+There are numerous ways to find tutoring on campus, this website provides a complete list.
+
+Writing Center - www.english.umd.edu/writingcenter
+Writing center staff can assist with almost any part of the writing process, including the creation of footnotes and/or a bibliography.  They can be an invaluable resource when writing papers.

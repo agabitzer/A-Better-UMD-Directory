@@ -61,7 +61,7 @@ A-Better-UMD-Directory
 
 20. [Student Entertainment Events](http://see.umd.edu) - Movies, Concerts and more!
 19. [Hidden UMD](http://hiddenumd.weebly.com/passport) - 
-20. []() - 
+20. [Sports Club Directory](http://crs.umd.edu/Sport-Clubs/Club-Directory) - 
 20. []() - 
 
 ### Research
@@ -71,6 +71,13 @@ A-Better-UMD-Directory
 20. []() - 
 20. []() - 
 20. []() - 
+
+### Career Service
+1. Business
+2. Engineering
+3. Careers 4 terps
+4. 
+5. 
 
 ### Quest
 

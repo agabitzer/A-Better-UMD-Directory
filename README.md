@@ -12,7 +12,7 @@ A-Better-UMD-Directory
 6. [UMD Emergency Prepardness](http://www.umd.edu/emergencypreparedness/) - Messages to the University community with relevant information and direction in the event of an emergency.
 7. [Administrative Departments and Campus Services](http://www.umd.edu/admin_dir.cfm) - from copy services to vending machines
 8. [USM Staff Directory](http://www.usmd.edu/usm/staff_directory/) - A to Z
-20. []() - 
+20. [MyDRL](https://mydrl.umd.edu/MyDrl/Student/Default.aspx) - Living Stuff
 20. []() - 
 19. []() - 
 
@@ -28,7 +28,7 @@ A-Better-UMD-Directory
 16. [The Enclave](https://www.8700enclave.com/) - 
 17. [Domain](http://www.domaincollegeparkapts.com/) - 
 20. [Dining](http://dining.umd.edu) - 
-20. []() - 
+20. [Getting Connected](http://register.net.umd.edu/Link2UM/) - 
 19. []() - 
 
 ### School

@@ -3,6 +3,11 @@ A-Better-UMD-Directory
 
 > A super unofficial attempt at making the UMD websites that much easier to navigate
 
+## How to Guide
+How to make a link
+[Name](www.)
+Make a title with #
+
 # Official Links
 1. [Everything](http://www.umd.edu/directories/) - The official directory of UMD
 2. [Faculty/Staff Directory Search](https://directory.umd.edu/search) - for finding emails, addresses, etc. of any UMD employee

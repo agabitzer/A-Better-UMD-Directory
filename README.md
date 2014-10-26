@@ -50,8 +50,10 @@ Make a title with #
 ### Club Resources
 
 19. [SGA](http://umdsgafinance.weebly.com/) - 
-20. []() - 
-19. []() - 
+20. [OrgSync](http://www.orgsync.umd.edu) - campus clubs and organizations
+20. [Stamp eCalendar] (http://ecalendar.umd.edu) - what is going on in Stamp?
+21. [greek life] (http://www.greek.umd.edu)
+22. 
 
 ### Your Health
 
